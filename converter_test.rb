@@ -1,5 +1,4 @@
 require 'minitest/autorun'
-
 require './converter'
 
 class ConversionTests < MiniTest::Test
